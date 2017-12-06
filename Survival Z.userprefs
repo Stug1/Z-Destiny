@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs">
+    <Files>
+      <File FileName="Assets\PauseGame2.cs" Line="26" Column="1" />
+      <File FileName="Assets\PauseGame.cs" Line="37" Column="1" />
+      <File FileName="Assets\Gravitr du Joueur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Motor.cs" Line="1" Column="1" />
+      <File FileName="Assets\VirtualJostick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="..\Motor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Mouvement.js" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuSettings.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
